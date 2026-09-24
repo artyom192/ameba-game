@@ -1,0 +1,6 @@
+{
+  "name": "Амёба - 2D Sandbox Survival",
+  "description": "Пиксельная 2D survival sandbox-игра в духе Terraria с исследованием, строительством, добычей ресурсов и боссами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
